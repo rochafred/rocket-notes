@@ -7,8 +7,8 @@ export function Header() {
       <Profile to="/profile">
         <img src="https://github.com/rochafred.png" alt="User Image" />
         <div>
-          <span>Bem-vindo</span>
-          <strong>Renan Silva</strong>
+          <span>Bem vindo</span>
+          <strong>Frederico Rocha</strong>
         </div>
       </Profile>
 
